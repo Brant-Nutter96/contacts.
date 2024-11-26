@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A sample index page with proper UTF-8 charset rules">
+    <meta name="author" content="Your Name">
+    <meta name="keywords" content="HTML, meta tags, charset, UTF-8, index page">
+    <title>Sample Index Page</title>
+</head>
+<body>
+    <header>
+        <h1>Dee's Donuts, Delicious!</h1>
+    </header>
+
+    <main>
+        <p>Welcome to Dee's online hub, follow the links to check us out on social media or find details about our business on the web page links.</p>
+        <p>Follow us here on social media</p>
+    </main>
+
+    <footer>
+       
+    </footer>
+</body>
+</html>
